@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/linda-arvore-no-meio-de-um-campo-coberto-de-grama-com-a-linha-das-arvores-ao-fundo_181624-29267.jpg?w=2000);    
+}
+
+.img3 {
+   background: rgba(255, 255, 255, 0.1);
+   backdrop-filter: blur(10px);
+   -webkit-backdrop-filter: blur(10px);
+   height: 50px;
+   align-items: center;
+   padding : 20vh;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+   width: 300px;
+   margin: 200px auto;
+   border-radius: 20px;
+}
+
+#Letra {
+    color: white;
+    text-align:center;
+    margin-top: 1%;
+}
